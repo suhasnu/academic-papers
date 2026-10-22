@@ -28,7 +28,7 @@ The report concludes that PIM does not dominate on every dimension, and that its
 supports a narrower claim: within a framework that still guarantees soundness, it reaches a
 region of the accuracy and simplicity trade-off that industrial analysts were shown to prefer.
 
-[Read the paper](Probabilistic_Inductive_Miner_Seminar_Report.pdf)
+[Read the paper](https://github.com/suhasnu/academic-papers/blob/main/Probabilistic%20Inductive%20Miner%20Seminar%20Report.pdf)
 
 ---
 
@@ -52,7 +52,7 @@ algorithms. The paper closes on where method exchange across those clusters woul
 valuable, and on open questions around interpretability and hyperparameter optimisation outside
 the environmental domain.
 
-[Read the paper](Co-citation_Analysis_on_Data_Mining_and_Random_Forest.pdf)
+[Read the paper](https://github.com/suhasnu/academic-papers/blob/main/Co-citation%20Analysis%20on%20Data%20Mining%20and%20Random%20Forest-%20A%20Literature%20Review.pdf)
 
 ---
 
